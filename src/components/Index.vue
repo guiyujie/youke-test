@@ -168,6 +168,8 @@ export default {
         },(err)=>{
             //错误显示顶部错误异常
             t.error=true;
+            t.loadingInstance.close();
+             t.cntLoading = false;
         })
     },
     //取消上次请求
