@@ -148,7 +148,7 @@ export default {
         if(loadMode){
             t.cntLoading= true;
         }
-        axios.get("../mock/index.json",{
+        axios.get("mock/index.json",{
             params:{
                 sortField:t.sortField,
                 sortType:t.sortType
