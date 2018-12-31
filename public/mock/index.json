@@ -1,0 +1,10 @@
+{
+    "status":"200",
+    "message":"数据",
+    "data":[
+        {"id":"1","name":"上证指数","code":"SH000001","type":"US","price":"2483.09","price_sub":"2483.02","state":"down","range":"-0.61%","range_sub":"0.00%","range_desc":"盘前"},
+        {"id":"2","name":"标普500ETF-SPDR","code":"SH000001","type":"US","price":"2483.09","price_sub":"2483.02","state":"down","range":"-0.61%","range_sub":"0.00%","range_desc":"盘前"},
+        {"id":"3","name":"上证指数","code":"SH000001","type":"US","price":"2483.09","price_sub":"2483.02","state":"down","range":"-0.61%","range_sub":"0.00%","range_desc":"盘前"},
+        {"id":"4","name":"上证指数","code":"SH000001","type":"US","price":"2483.09","price_sub":"2483.02","state":"down","range":"-0.61%","range_sub":"0.00%","range_desc":"盘前"}        
+    ]
+}
